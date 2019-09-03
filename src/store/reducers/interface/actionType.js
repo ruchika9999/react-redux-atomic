@@ -1,0 +1,2 @@
+export const VIEWPORT_SIZE = 'VIEWPORT_SIZE';
+
